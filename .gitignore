@@ -1,0 +1,6 @@
+/dist
+/node_modules
+package-lock.json
+config.json
+database.json
+.env

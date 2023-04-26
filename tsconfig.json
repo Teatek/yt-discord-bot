@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",                                /* Specify what module code is generated. */
+    "moduleResolution": "NodeNext",                      /* Specify what module system is used. */
+    "sourceMap": true,
+    "target": "es2020",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "rootDir": "src",
+    "outDir": "dist",
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"],
+}

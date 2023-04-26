@@ -1,0 +1,18 @@
+{
+  "youtubeChannels": [
+    {
+      "name": "youtubeChannel",
+      "id": "XXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    {
+      "name": "youtubeChannel",
+      "id": "XXXXXXXXXXXXXXXXXXXXXXXX"
+    }
+  ],
+  "schedule": [
+    "08:00",
+    "12:00",
+    "20:00"
+  ],
+  "discordChannel": "XXXXXXXXXXXXXXXXXXX"
+}
